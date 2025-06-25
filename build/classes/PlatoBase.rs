@@ -1,0 +1,1 @@
+patronesdediseño.PlatoBase
